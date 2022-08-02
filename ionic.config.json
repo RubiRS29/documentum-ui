@@ -1,0 +1,7 @@
+{
+  "name": "documentum_dash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
